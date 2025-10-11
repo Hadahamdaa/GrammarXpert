@@ -4,9 +4,7 @@
 It provides real-time feedback and suggestions through an intuitive **Gradio-based UI**, making it simple and efficient to use for both academic and professional writing.  
 
 ## ✨ Features
-- ✅ Detects grammar, spelling, and punctuation errors  
-- ✍️ Suggests corrections with improved readability  
-- 🗣️ Analyzes tone and style of writing  
+- ✅ Detects grammar, spelling, and punctuation errors   
 - ⚡ Real-time checking via **Gradio interface**  
 - 🌐 Easy-to-use web UI without extra setup  
 
